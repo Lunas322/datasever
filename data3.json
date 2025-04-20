@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Apple Ring",
+    "content": "Smart wearable for daily health tracking",
+    "photo": "apple_ring.jpg",
+    "title": "Small Wonder"
+  },
+  {
+    "name": "MacBook Air Touch",
+    "content": "Ultra-thin laptop with touch display",
+    "photo": "macbookair_touch.jpg",
+    "title": "Touch the Lightness"
+  },
+  {
+    "name": "iPad Fold",
+    "content": "Flexible tablet for multitasking",
+    "photo": "ipad_fold.jpg",
+    "title": "Bend Possibility"
+  },
+  {
+    "name": "Apple Glass",
+    "content": "Augmented reality glasses for daily use",
+    "photo": "apple_glass.jpg",
+    "title": "See Smarter"
+  },
+  {
+    "name": "HomePod Mini 2",
+    "content": "Compact smart speaker with deep bass",
+    "photo": "homepod_mini2.jpg",
+    "title": "Sound in Small"
+  },
+  {
+    "name": "Mac Studio Max",
+    "content": "Desktop powerhouse for pro workflows",
+    "photo": "macstudio_max.jpg",
+    "title": "Max Your Studio"
+  },
+  {
+    "name": "Apple CarPlay X",
+    "content": "Next-gen in-car entertainment system",
+    "photo": "carplay_x.jpg",
+    "title": "Drive the Future"
+  },
+  {
+    "name": "Apple Dock Pro",
+    "content": "High-speed hub for your Apple devices",
+    "photo": "apple_dockpro.jpg",
+    "title": "Connect Everything"
+  },
+  {
+    "name": "iPhone Ultra",
+    "content": "Flagship smartphone with extreme performance",
+    "photo": "iphone_ultra.jpg",
+    "title": "Beyond Smart"
+  },
+  {
+    "name": "AirPods Sport",
+    "content": "Sweat-resistant earbuds for workouts",
+    "photo": "airpods_sport.jpg",
+    "title": "Move with Music"
+  },
+  {
+    "name": "Apple Keyboard Flex",
+    "content": "Foldable wireless keyboard for travel",
+    "photo": "keyboard_flex.jpg",
+    "title": "Type Anywhere"
+  },
+  {
+    "name": "iMac Nano",
+    "content": "Compact iMac for tight spaces",
+    "photo": "imac_nano.jpg",
+    "title": "Small, Yet Mighty"
+  }
+]
