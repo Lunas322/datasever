@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Apple Vision Pro",
+    "content": "Mixed reality headset for immersive experiences",
+    "photo": "vision_pro.jpg",
+    "title": "See the Future"
+  },
+  {
+    "name": "MacBook Pro M3 Max",
+    "content": "Ultimate power for pro creators",
+    "photo": "macbookpro_m3max.jpg",
+    "title": "Unleash Performance"
+  },
+  {
+    "name": "iPad Air M3",
+    "content": "Lightweight power for every task",
+    "photo": "ipadair_m3.jpg",
+    "title": "Power in Air"
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "content": "Built for extreme adventures",
+    "photo": "watch_ultra2.jpg",
+    "title": "Adventure Companion"
+  },
+  {
+    "name": "AirPods Max 2",
+    "content": "Studio-quality wireless headphones",
+    "photo": "airpodsmax2.jpg",
+    "title": "Max Out Sound"
+  },
+  {
+    "name": "iMac Pro M3",
+    "content": "Powerful all-in-one desktop",
+    "photo": "imacpro_m3.jpg",
+    "title": "Pro Creativity"
+  },
+  {
+    "name": "Mac Mini M3",
+    "content": "Compact yet mighty desktop",
+    "photo": "macmini_m3.jpg",
+    "title": "Mini Beast"
+  },
+  {
+    "name": "Apple TV Pro",
+    "content": "4K HDR streaming with gaming support",
+    "photo": "appletv_pro.jpg",
+    "title": "Entertainment Elevated"
+  },
+  {
+    "name": "HomePod Studio",
+    "content": "High-fidelity smart speaker",
+    "photo": "homepod_studio.jpg",
+    "title": "Sound Reimagined"
+  },
+  {
+    "name": "Magic Trackpad 2 Plus",
+    "content": "Precision input with haptics",
+    "photo": "magic_trackpad2plus.jpg",
+    "title": "Touch Refined"
+  },
+  {
+    "name": "Apple Pencil 3",
+    "content": "Pixel-perfect tool with gesture controls",
+    "photo": "apple_pencil3.jpg",
+    "title": "Next-Gen Creativity"
+  },
+  {
+    "name": "AirTag Slim",
+    "content": "Ultra-thin tracker for wallets and more",
+    "photo": "airtag_slim.jpg",
+    "title": "Track Everything"
+  }
+]
