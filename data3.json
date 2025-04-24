@@ -4,56 +4,56 @@
     "content": "Smart wearable for daily health tracking",
     "photo": "apple_ring.jpg",
     "title": "Small Wonder",
-    "add":0
+    "add":1
   },
   {
     "name": "MacBook Air Touch",
     "content": "Ultra-thin laptop with touch display",
     "photo": "macbookair_touch.jpg",
     "title": "Touch the Lightness",
-    "add":0
+    "add":1
   },
   {
     "name": "iPad Fold",
     "content": "Flexible tablet for multitasking",
     "photo": "ipad_fold.jpg",
     "title": "Bend Possibility",
-    "add":0
+    "add":1
   },
   {
     "name": "Apple Glass",
     "content": "Augmented reality glasses for daily use",
     "photo": "apple_glass.jpg",
     "title": "See Smarter",
-    "add":0
+    "add":1
   },
   {
     "name": "HomePod Mini 2",
     "content": "Compact smart speaker with deep bass",
     "photo": "homepod_mini2.jpg",
     "title": "Sound in Small",
-    "add":0
+    "add":1
   },
   {
     "name": "Mac Studio Max",
     "content": "Desktop powerhouse for pro workflows",
     "photo": "macstudio_max.jpg",
     "title": "Max Your Studio",
-    "add":0
+    "add":1
   },
   {
     "name": "Apple CarPlay X",
     "content": "Next-gen in-car entertainment system",
     "photo": "carplay_x.jpg",
     "title": "Drive the Future",
-    "add":0
+    "add":1
   },
   {
     "name": "Apple Dock Pro",
     "content": "High-speed hub for your Apple devices",
     "photo": "apple_dockpro.jpg",
     "title": "Connect Everything",
-    "add":0
+    "add":1
   },
   {
     "name": "iPhone Ultra",
@@ -67,20 +67,20 @@
     "content": "Sweat-resistant earbuds for workouts",
     "photo": "airpods_sport.jpg",
     "title": "Move with Music",
-    "add":0
+    "add":1
   },
   {
     "name": "Apple Keyboard Flex",
     "content": "Foldable wireless keyboard for travel",
     "photo": "keyboard_flex.jpg",
     "title": "Type Anywhere",
-    "add":0
+    "add":1
   },
   {
     "name": "iMac Nano",
     "content": "Compact iMac for tight spaces",
     "photo": "imac_nano.jpg",
     "title": "Small, Yet Mighty",
-    "add":0
+    "add":1
   }
 ]
