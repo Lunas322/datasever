@@ -3,72 +3,84 @@
     "name": "Apple Vision Pro",
     "content": "Mixed reality ",
     "photo": "vision_pro.jpg",
-    "title": "See the Future"
+    "title": "See the Future",
+    "add":"1"
   },
   {
     "name": "MacBook Pro M3 Max",
     "content": "Ultimate power ",
     "photo": "macbookpro_m3max.jpg",
-    "title": "Unleash Performance"
+    "title": "Unleash Performance",
+    "add":"1"
   },
   {
     "name": "iPad Air M3",
     "content": "Lightweight power",
     "photo": "ipadair_m3.jpg",
-    "title": "Power in Air"
+    "title": "Power in Air",
+    "add":"1"
   },
   {
     "name": "Apple Watch Ultra 2",
     "content": "Built for extreme",
     "photo": "watch_ultra2.jpg",
-    "title": "Adventure Companion"
+    "title": "Adventure Companion",
+    "add":"1"
   },
   {
     "name": "AirPods Max 2",
     "content": "Studio-quality ",
     "photo": "airpodsmax2.jpg",
-    "title": "Max Out Sound"
+    "title": "Max Out Sound",
+    "add":"1"
   },
   {
     "name": "iMac Pro M3",
     "content": "Powerful all-in-one ",
     "photo": "imacpro_m3.jpg",
-    "title": "Pro Creativity"
+    "title": "Pro Creativity",
+    "add":"1"
   },
   {
     "name": "Mac Mini M3",
     "content": "Compact yet mighty",
     "photo": "macmini_m3.jpg",
-    "title": "Mini Beast"
+    "title": "Mini Beast",
+    "add":"1"
   },
   {
     "name": "Apple TV Pro",
     "content": "4K HDR streaming",
     "photo": "appletv_pro.jpg",
-    "title": "Entertainment "
+    "title": "Entertainment ",
+    "add":"1"
   },
   {
     "name": "HomePod Studio",
     "content": "High-fidelity ",
     "photo": "homepod_studio.jpg",
-    "title": "Sound Reimagined"
+    "title": "Sound Reimagined",
+    "add":"1"
   },
   {
     "name": "Magic Trackpad 2 Plus",
     "content": "Precision input ",
     "photo": "magic_trackpad2plus.jpg",
-    "title": "Touch Refined"
+    "title": "Touch Refined",
+    "add":"1"
   },
   {
     "name": "Apple Pencil 3",
     "content": "Pixel-perfect ",
     "photo": "apple_pencil3.jpg",
-    "title": "Next-Gen "
+    "title": "Next-Gen ",
+    "add":"1"
   },
   {
     "name": "AirTag Slim",
     "content": "Ultra-thin",
     "photo": "airtag_slim.jpg",
-    "title": "Track Everything"
+    "title": "Track Everything",
+    "add":"1"
   }
 ]
